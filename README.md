@@ -7,7 +7,7 @@ This repository provides supplementary experimental results to support the rebut
 ## **Contents**
 
 - `HIA_add_experiments.pdf`  
-  Contains additional experiments requested by the reviewers, including extended evaluations, ablation studies, and further analysis of the proposed method.
+  Contains additional experiments requested by the reviewers, including extended evaluations and ablation studies.
 
 ---
 
